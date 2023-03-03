@@ -17,6 +17,6 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/sncloud/git-test#readme",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   }
 }
